@@ -1,0 +1,21 @@
+/* styles.css */
+
+.summer{
+    width: 100%;
+}
+
+.heading{
+    color: rgb(35, 178, 221);
+    font-size: 40px;
+}
+
+.description
+{
+    color: rgb(35, 178, 221);
+    font-size: 30px;
+}
+
+ul{
+    color: rgb(35, 178, 221);
+    font-size: 30px;
+}

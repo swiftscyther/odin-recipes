@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(168, 225, 243);
+    
+}
+
+h3{
+    font-size: 30px;
+}
+
+ol{
+    font-size: 22px;
+}
+
+p{
+    font-size: 22px;
+}
+
+.imgCu{
+    height: 300px;
+}
+
+.title_main{
+    font-size: 40px;
+    }
